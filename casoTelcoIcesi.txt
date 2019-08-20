@@ -1,0 +1,67 @@
+¿Por qué me eligen los clientes?
+¿Cuáles  son los tipos de clientes? > segmentación
+¿Cómo robarle clientes a mi competencia?
+¿Qué clientes son propensos a abandonarme?
+¿Quién es un cliente "bueno"?
+¿Qué ofrecen las otras empresas? y comparar
+
+1. datos de los clientes recientes
+2. datos de los clientes que no he podido atraer
+3. datos como antiguedad, edad, capacidad adquisitiva
+
+Datos sociodemograficos
+Datos de comportamiento
+
+------------------------------------
+Tipos de problemas a tareas
+
+¿Cuáles son los prospectos más susceptibles de convertirse en clientes?
+1. Clasificación
+
+¿Cuantas personas necesito en navidad para soportar la carga adicional?
+2. Regresión - Secuencias(tengo en cuenta info temporal)
+
+Tengo dinero para hacer 4 campañas de mercadeo. ¿Cómo segmento los clientes?
+3. Clustering
+
+Dado que este cliente tiene cuenta de ahorros, tarjeta de crédito y seguro de carro con
+mi entidad, ¿Cuál es el mejor producto para ofrecerle ahora?
+4. Asociación ("los que me compran pañales, los que me compran cervezas")
+
+¿Cuáles son los clientes más parecidos a este cliente?
+5. Clustering
+
+¿Cuánto me va a comprar cada gran cliente el próximo mes?
+6. Regresión - Secuencias
+
+¿Le estoy cobrando adecuadamente a mis clientes?
+7. Clustering
+Los datos de los comportamientos de los clientes
+
+¿Cuál es la probabilidad de que este cliente me pague en los próximos 30 días?
+8. Clasificación
+Algunos modelos de clasificación también me dan la probabilidad que me clasifican las categorias
+
+¿A qué máquinas debería hacerles mantenimiento preventivo?
+9. Detección de excepciones - Clasificación (si tengo suficientes anomalías)
+
+¿Cuánta plata debería invertir en publicidad en radio, televisión e internet?
+10. Regresión
+
+¿Cuál es el nivel de inventario óptimo para cada producto en cada semana del año?
+11. Secuencias/PRONÓSTICO
+
+--------------------------------------
+Clustering es un Aprendizaje no supervisado
+
+Reducción de dimensiones = Resumen
+
+MENOS es MÁS!
+
+-------------------
+Pete Chispman
+
+Presentar una de las seis fases del modelo CRISP-DM (5 - 10 minutos)
+Que se tiene que hacer
+Cuales son las salidas / entregables
+G3: Tauta, Molano, Stevens 
