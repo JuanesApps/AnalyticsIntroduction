@@ -1,0 +1,19 @@
+bias = sesgo -> que tan lejos
+       varianza -> que tanto varia
+Ambos son fuentes de error
+
+Modelo muy simple: underfitting
+Modelo muy complejo: overfitting -> tanto clasificación como regresión
+
+Protocolos de evaluación de modelos
+* Holdout: Gran dataset partido en dos. Depende de que tantos datos.
+	En small data la proporción es 70-30 (training-test).
+* K-fold cross-validation: Buckets/Baldes/Folds de mismo tamaño que guardan la misma proporción de la clase objetivo. Hago n iteraciones (representan un modelo) y saco el promedio.
+* Bootstrapping: Generar datos de entrenamiento del mismo tamaño del dataset con repetición.
+
+PARCIAL:
+KNN - Naive Bayes
+
+Siguiente clase: Tema
+Lo que sigue: Dudas sobre el parcial de hace un año
+La que sigue: PARCIAL!!!
