@@ -1,0 +1,33 @@
+Predicción
+Procesos de caja negra
+
+Inferencia
+Entiendo la relación entre los "x" y los "y"
+---
+Clasificación a partir de la matriz de confusión
+---
+Residuos diferencia entre los valores reales y los valores predichos
+---
+Criterio: minimizar el error cuadratico
+---
+
+Para saber que tan buena es mi regresión miro los residuos
++ Los residuos deben ser independientes
++ Homocedasticidad: la varianza es constante
++ Deben estar normalmente distribuidos (si los ordeno->una campana[Gaus])
++ No deben presentar patrones
++ Multicolinealidad: si tengo varios x, esos x no pueden estar muy correlacionados entre ellos.
+
+---
+
+Metricas de regresión
+
+"1". Positivo: a mayor "x", mayor "y"
+
+R² -> numerador: modelo, denominador: promedio
+
+
+R² ajustado -> Entre más grande es mejor
+(Muy importante)
+
+Entre AIC y BIC -> Entre más pequeño mejor
